@@ -3,10 +3,12 @@
 		"name": "Basic English",
 		"abbrev": "bbe",
 		"lang": "en"
+		"chap": "Chapter"
 	},
 	{
 		"name": "King James",
 		"abbrev": "kjv",
 		"lang": "en"
+		"chap": "Chapter"
 	}
 ]
